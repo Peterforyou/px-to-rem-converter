@@ -20,7 +20,7 @@ This is a Px to Rem converter
 
 ### Links
 
-- Live Site URL:(https://peterforyou.github.io/Interactive-form/)
+- Live Site URL:(https://peterforyou.github.io/px-to-rem-converter/)
 
 ### Built with
 
